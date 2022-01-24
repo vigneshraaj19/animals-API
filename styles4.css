@@ -1,0 +1,16 @@
+
+body {
+    padding: 100px;
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;
+}
+
+img {
+    margin: 50px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
